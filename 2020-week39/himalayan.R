@@ -138,7 +138,7 @@ p2 <-
        subtitle = "Top 5 Peaks",
        caption = "Graphics: @andre-07 | Source: The Himalayan Database")
 
-## For tidy tuesday icon
+## For tidy tuesday logo
 img <- png::readPNG("ttues_logo.png")
 g1 <- grid::rasterGrob(img, interpolate=TRUE)
 
